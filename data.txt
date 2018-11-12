@@ -1,5 +1,5 @@
 {
-  "name": "Cordis  Technology",
+  "name": "Cordis",
   "role": "Manager",
   "city": "Los Angeles"
 }
