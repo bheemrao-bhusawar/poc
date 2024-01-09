@@ -24,6 +24,9 @@ public class JacksonObjectMapperExample {
 
 	public static void main(String[] args) throws IOException {
 		
+		
+		
+		
 		//read json file data to String
 		byte[] jsonData = Files.readAllBytes(Paths.get("employee.txt"));
 		
